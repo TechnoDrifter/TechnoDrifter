@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi, I'm [Your Name] 👋  
+🚀 3rd Year IT Student | Cloud Computing & Data Enthusiast | AWS Certified  
+🌍 Based in Ontario, Canada  
 
-<!--
-**TechnoDrifter/TechnoDrifter** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🛠 Skills  
+- **Cloud:** AWS (EC2, S3, Lambda), Azure  
+- **Data & Databases:** SQL, PostgreSQL, MongoDB  
+- **Programming:** Python, Java, JavaScript  
+- **Tools:** Git, Docker, Terraform  
 
-Here are some ideas to get you started:
+## 📜 Certifications  
+- AWS Cloud Practitioner  
+- IBM Data Science (Ongoing)  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔨 Projects  
+- [Project 1: AWS Deployed Web App](#)  
+- [Project 2: Data Analysis on COVID-19 Dataset](#)  
+- [Project 3: SQL Database for Inventory Management](#)  
+
+📫 **Find me on:**  
+[LinkedIn](https://linkedin.com/in/yourprofile) | [Portfolio Website](#) | [Email](mailto:your-email@example.com)
