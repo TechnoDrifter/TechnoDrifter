@@ -1,4 +1,4 @@
-# Hi, I'm [Your Name] 👋  
+# Hi, I'm Shalin 👋  
 🚀 3rd Year IT Student | Cloud Computing & Data Enthusiast | AWS Certified  
 🌍 Based in Ontario, Canada  
 
@@ -10,12 +10,11 @@
 
 ## 📜 Certifications  
 - AWS Cloud Practitioner  
-- IBM Data Science (Ongoing)  
+- SAP Student Recognition Award
+- ChatGPT Prompt Engineering for Developers  
 
 ## 🔨 Projects  
-- [Project 1: AWS Deployed Web App](#)  
-- [Project 2: Data Analysis on COVID-19 Dataset](#)  
-- [Project 3: SQL Database for Inventory Management](#)  
+
 
 📫 **Find me on:**  
-[LinkedIn](https://linkedin.com/in/yourprofile) | [Portfolio Website](#) | [Email](mailto:your-email@example.com)
+[LinkedIn](https://linkedin.com/in/shalin-vaidya-b944a8245) | [Portfolio Website](#) | [Email](mailto:vaidyashalin.1144@gmail.com)
